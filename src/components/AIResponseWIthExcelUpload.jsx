@@ -33,11 +33,11 @@ const AIResponseWithExcelUpload = () => {
   };
 
   return (
-    <div className="max-w-6xl mx-auto">
+    <div className="">
       <div className="mb-4">
         <label
           htmlFor="excel-upload"
-          className="block text-sm font-medium text-white"
+          className="block text-sm font-medium text-gray-800"
         >
           Upload Excel File
         </label>
