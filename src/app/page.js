@@ -1,4 +1,6 @@
-import AIResponseWithExcelUpload from "../components/AIResponseWithExcelUpload";
+// import AIResponseWithExcelUpload from "/components/AIResponseWithExcelUpload";
+
+import AIResponseWithExcelUpload from "@/components/AIResponseWIthExcelUpload";
 
 export default function Home() {
   return (
